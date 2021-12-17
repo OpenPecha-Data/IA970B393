@@ -1,7 +1,7 @@
 id: P000802
 initial_creation_type: ocr
 created_at: 29/03/2021
-last_modified_at: 24/11/2021
+last_modified_at: 2021-12-17 10:11:24.644298
 source_metadata:
   id: bdr:W22704
   title: བསྟན་འགྱུར ༼སྣར་ཐང༽
@@ -907,3 +907,5 @@ source_metadata:
       title: ''
       base_file: v225.txt
   author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
